@@ -1,0 +1,6 @@
+htmlmin
+csscompressor
+commonmark
+pyyaml
+webassets
+python-slugify
